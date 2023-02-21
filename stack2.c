@@ -33,6 +33,7 @@ void main()
 	}
 	}while(opt!=4);
 		}
+
 void push()
 {
 	struct node *new=NULL;
